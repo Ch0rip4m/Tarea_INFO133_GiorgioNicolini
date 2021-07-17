@@ -20,3 +20,10 @@ segmentos: [
  ]
 }
 
+Coleccion "Audios"
+
+{ nombre_archivo
+  file (codificacion de audi para guardarlo en la base de datos)
+  descripcion
+  fecha_audio
+}
